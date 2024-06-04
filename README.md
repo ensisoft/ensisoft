@@ -11,6 +11,7 @@ I'm a freelance software developer available for hire, doubling as an indie game
 * Experience with system and driver development (have implemented a OpenGL ES, OpenCL, OpenMAX drivers)
 * Experience with embedded and desktop development, Linux, Windows, Android and QNX
 * Strong skills in C, C++ and native development
+* Experience in startups (TechStars 2020 alumni)
   
 📫 How to reach me<br>
 Go to https://ensisoft.com/ and send a message
