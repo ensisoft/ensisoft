@@ -13,9 +13,9 @@ Hello I'm a freelance software developer available for hire doubling as an indie
 📫 How to reach me:
 Go to https://ensisoft.com/ and send a message
 
-You might want to check out [DETONATOR 2D game engine](https://github.com/ensisoft/detonator).
+You might want to check out [DETONATOR 2D](https://github.com/ensisoft/detonator) game engine
 
-https://raw.githubusercontent.com/ensisoft/detonator/master/screens/demos.gif
+
 
 <!--
 **ensisoft/ensisoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
