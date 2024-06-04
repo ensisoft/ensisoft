@@ -10,9 +10,12 @@ Hello I'm a freelance software developer available for hire doubling as an indie
 * Experience with embedded and desktop development, Linux, Windows, Android and QNX
 * Strong skills in C, C++ and native development
   
-- 📫 How to reach me: https://ensisoft.com/
+📫 How to reach me:
+Go to https://ensisoft.com/ and send a message
 
-You might want to check [DETONATOR 2D game engine + editor](https://github.com/ensisoft/detonator).
+You might want to check out [DETONATOR 2D game engine](https://github.com/ensisoft/detonator).
+
+https://raw.githubusercontent.com/ensisoft/detonator/master/screens/demos.gif
 
 <!--
 **ensisoft/ensisoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
