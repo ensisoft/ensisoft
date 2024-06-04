@@ -1,6 +1,8 @@
 ## Your Digital Problems Solved !
 
-Hello I'm a freelance software developer available for hire doubling as an indie game / game engine developer on my free time.
+Hello there!  👋
+
+I'm a freelance software developer available for hire, doubling as an indie game / game engine developer on my free time.
 
 * Over 20 years of professional experience
 * Ex NVIDIA (4.5 years, +3 years working with VR and UE4)
@@ -10,10 +12,11 @@ Hello I'm a freelance software developer available for hire doubling as an indie
 * Experience with embedded and desktop development, Linux, Windows, Android and QNX
 * Strong skills in C, C++ and native development
   
-📫 How to reach me:
+📫 How to reach me<br>
 Go to https://ensisoft.com/ and send a message
 
-You might want to check out [DETONATOR 2D](https://github.com/ensisoft/detonator) game engine
+🔭 You might want to check out<br>
+[DETONATOR 2D](https://github.com/ensisoft/detonator) game engine
 
 
 
