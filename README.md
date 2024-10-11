@@ -2,7 +2,7 @@
 
 Hello there!  👋
 
-I'm a freelance software developer available for hire, doubling as an indie game / game engine developer on my free time.
+I'm a freelance software developer available for hire, doubling as an indie game / game engine developer in my free time.
 
 * Over 20 years of professional experience
 * Ex NVIDIA (4.5 years, +3 years working with VR and UE4)
